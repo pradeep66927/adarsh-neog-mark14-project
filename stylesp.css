@@ -1,0 +1,36 @@
+
+:root {
+    --primary-color: #9668e6;
+  }
+  
+
+body{
+    text-align: center;
+    background-color: #bea0f1;
+    text-color:pink;
+    padding-bottom: 2rem;
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem;
+}
+
+}
+#initial-price{
+    text-size:large;
+}
+
+#submit-btn {
+    background: var(--primary-color);
+    border: solid 0.3rem;
+    color:red;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: rgb(22, 21, 21);
+    margin: auto;
+    display: block;
+  }
+  
